@@ -23,7 +23,12 @@
    - 기타
      - 학생을 추가하거나 삭제할 수 없는 경우 메시지 창을 표시
      
+     
+<div align=center> 
 
+  ![HW1](https://user-images.githubusercontent.com/71704350/145698019-f4fde86a-d5c4-44b9-b75f-57c784342f7f.PNG)
+
+</div>
 ---------------------
 
 ## HW2
@@ -61,6 +66,11 @@
       - 끌기 도중 rotation인자와 scaling인자를 표시
 
 
+<div align=center> 
+
+  ![HW2](https://user-images.githubusercontent.com/71704350/145698032-f663a6b4-cbde-4612-942b-2471394f9d62.PNG)
+
+</div>
 -------------------------
 ## HW3
 ### 간단한 2D게임 만들기 1단계
@@ -72,6 +82,11 @@
   - 불투명 마스크 기능 사용
 
 
+<div align=center> 
+
+  ![HW3](https://user-images.githubusercontent.com/71704350/145698058-2083aba6-3e5d-484f-b256-0167b915af99.PNG)
+
+</div>
 --------------------------
 ## HW4
 ### 간단한 2D게임 만들기 2단계
