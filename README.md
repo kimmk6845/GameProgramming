@@ -29,6 +29,7 @@
   ![HW1](https://user-images.githubusercontent.com/71704350/145698019-f4fde86a-d5c4-44b9-b75f-57c784342f7f.PNG)
 
 </div>
+
 ---------------------
 
 ## HW2
@@ -71,6 +72,7 @@
   ![HW2](https://user-images.githubusercontent.com/71704350/145698032-f663a6b4-cbde-4612-942b-2471394f9d62.PNG)
 
 </div>
+
 -------------------------
 ## HW3
 ### 간단한 2D게임 만들기 1단계
@@ -87,6 +89,7 @@
   ![HW3](https://user-images.githubusercontent.com/71704350/145698134-dbc26134-644b-423c-aee3-cdce33e319fd.PNG)
 
 </div>
+
 --------------------------
 ## HW4
 ### 간단한 2D게임 만들기 2단계
